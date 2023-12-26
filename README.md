@@ -2,6 +2,8 @@
 
 ![image](https://github.com/bilalmuhammad41/Nike-LandingPage/assets/122988632/564937cf-043f-4f55-afb2-5c6c5b597b40)
 
+View Live: https://bilalmuhammad41.github.io/Nike-LandingPage/
+
 This project is a Nike Landing Page created using React and Tailwind CSS. It was built as a learning exercise to explore the capabilities of React and get hands-on experience with Tailwind CSS for styling.
 
 ## Table of Contents
