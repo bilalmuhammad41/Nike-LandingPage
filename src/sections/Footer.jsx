@@ -1,3 +1,5 @@
+import React from 'react'
+
 import {footerLinks, socialMedia} from '../constants'
 import {footerLogo} from "../assets/images"
 import { copyrightSign } from '../assets/icons'

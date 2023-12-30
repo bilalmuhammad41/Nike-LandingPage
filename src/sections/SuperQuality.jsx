@@ -1,3 +1,5 @@
+import React from 'react'
+
 import { shoe8 } from "../assets/images"
 import Button from "../components/Button"
 

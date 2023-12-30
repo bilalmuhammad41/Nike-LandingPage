@@ -1,4 +1,4 @@
-import { useState } from "react"
+import React, { useState } from "react"
 import { arrowRight } from "../assets/icons"
 import { bigShoe1 } from "../assets/images"
 import Button from "../components/Button"

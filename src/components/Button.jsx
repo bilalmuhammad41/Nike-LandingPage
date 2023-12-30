@@ -1,3 +1,5 @@
+import React from 'react'
+
 const Button = ({label, iconURL, backgroundColor, borderColor, textColor, fullWidth}) => {
   return (
     <button className={`flex justify-center items-center gap-2 px-7 py-4 rounded-full leading-none text-lg font-montserrat border ${
